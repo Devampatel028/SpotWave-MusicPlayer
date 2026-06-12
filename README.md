@@ -22,9 +22,14 @@ SpotWave is a high-fidelity, client-side music streaming replica inspired by Spo
 
 ## 🎨 Interface Preview
 
-| Desktop View | Mobile View |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350?text=Desktop+Preview" width="100%" alt="Desktop layout"/> | <img src="https://via.placeholder.com/250x450?text=Mobile+Preview" width="100%" alt="Mobile layout"/> |
+| Desktop View | 
+
+| <img src="./img/desktop-1.png"> |
+| <img src="./img/desktop-2.png"> |
+
+| Mobile View |
+
+| <img src="./img/mobile-1.png"> | <img src="./img/mobile-2.png"> |
 
 > *💡 Tip: Replace these placeholder images with actual screenshots or a high-quality GIF of your application once pushed!*
 
